@@ -1,0 +1,12 @@
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Piotrek_UWM\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\listopad 2016\uwm_dok\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
